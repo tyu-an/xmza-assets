@@ -1,4 +1,6 @@
 {
-  "images": {},
-  "updatedAt": null
+  "images": {
+    "/images/prototype/processing-cut.jpg": "https://raw.githubusercontent.com/tyu-an/xmza-assets/main/site-images/20260602/images-prototype-processing-cut-jpg-1780369243713.jpg"
+  },
+  "updatedAt": "2026-06-02T03:00:43.713Z"
 }
